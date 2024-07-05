@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'UhBeeJJIBBABBA600';
+    font-weight: 600;
+    src: url('../font/UhBee_JJIBBABBA_Bold.ttf') format('truetype');
+    font-style: normal;
+}
+@font-face {
+    font-family: 'UhBeeJJIBBABBA';
+    font-weight: 100;
+    src: url('../font/UhBee_JJIBBABBA.ttf') format('truetype');
+    font-style: normal;
+}
+
+.ub600{
+    font-family: 'UhBeeJJIBBABBA600' !important;
+}
+.ub100{
+    font-family: 'UhBeeJJIBBABBA' !important; 
+}

@@ -1,0 +1,46 @@
+/* pretendard 폰트를 정의 */
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 100;
+    src: url('/font/pretendard-Thin.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 200;
+    src: url('/font/pretendard-ExtraLight.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 300;
+    src: url('/font/pretendard-Light.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 400;
+    src: url('/font/pretendard-Regular.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 500;
+    src: url('/font/pretendard-Medium.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 600;
+    src: url('/font/pretendard-SemiBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 700;
+    src: url('/font/pretendard-Bold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 800;
+    src: url('/font/pretendard-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+    font-family: 'Pretendard';
+    font-weight: 900;
+    src: url('/font/pretendard-Black.woff2') format('woff2');
+}
